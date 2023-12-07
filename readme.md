@@ -1,4 +1,4 @@
-# Infinity Works - Full Stack Tech Test: Python
+# Aviva Zero - Full Stack Tech Test: Python
 
 Python version of the Infinity Works technical test. It uses the `flask`_ microframework.
 
