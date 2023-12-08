@@ -18,6 +18,7 @@ Python version of the Aviva Zero technical test. It uses the `flask`_ microframe
 * Create and activate a new virtual environment:
 
     $ python3 -m venv venv
+  
     $ . venv/bin/activate
 
 * Install dependencies:
