@@ -1,6 +1,6 @@
 # Aviva Zero - Full Stack Tech Test: Python
 
-Python version of the Infinity Works technical test. It uses the `flask`_ microframework.
+Python version of the Aviva Zero technical test. It uses the `flask`_ microframework.
 
 .. _flask: http://flask.pocoo.org
 
@@ -20,7 +20,7 @@ Python version of the Infinity Works technical test. It uses the `flask`_ microf
     $ python3 -m venv venv
     $ . venv/bin/activate
 
-* Install dependencies::
+* Install dependencies:
 
     $ pip install -e .
 
