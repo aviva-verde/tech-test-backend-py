@@ -50,7 +50,28 @@ FHRS ratings should be returned in order, as in this example
 </table>
 
 FHIS ratings should be returned in order, as in this example
-<table><thead><tr><th>Rating</th><th>Percentage</th></tr></thead><tbody><tr><td>Pass and Eat Safe</td><td>50%</td></tr><tr><td>Pass</td><td>15%</td></tr><tr><td>Improvement Required</td><td>35%</td></tr></tbody></table>
+<table>
+    <thead>
+        <tr>
+            <th>Rating</th>
+            <th>Percentage</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Pass and Eat Safe</td>
+            <td>50%</td>
+        </tr>
+        <tr>
+            <td>Pass</td>
+            <td>15%</td>
+        </tr>
+        <tr>
+            <td>Improvement Required</td>
+            <td>35%</td>
+        </tr>
+    </tbody>
+</table>
 
 # Acceptance Criteria
 On selecting a local authority the rating values and percentage shall be displayed.
